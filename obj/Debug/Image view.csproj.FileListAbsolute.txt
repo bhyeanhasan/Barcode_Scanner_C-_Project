@@ -1,0 +1,16 @@
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Image view.csprojAssemblyReference.cache
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Image_view.Properties.Resources.resources
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Image view.csproj.GenerateResource.cache
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.dll
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.presentation.dll
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.pdb
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.xml
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.presentation.pdb
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.presentation.xml
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Image view.csproj.CopyComplete
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\Ami.exe.config
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\Ami.exe
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\Ami.pdb
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Image_view.BarcodeScanner.resources
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Ami.exe
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Ami.pdb

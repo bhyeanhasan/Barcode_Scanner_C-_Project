@@ -1,0 +1,16 @@
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\PSTU_CSE.exe.config
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\PSTU_CSE.exe
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\PSTU_CSE.pdb
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.dll
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.presentation.dll
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.pdb
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.xml
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.presentation.pdb
+C:\Users\NoYoN\source\repos\Image view\bin\Debug\zxing.presentation.xml
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Image_view.BarcodeScanner.resources
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\BARCODE_SCANNER.csproj.GenerateResource.cache
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\BARCODE_SCANNER.csproj.CopyComplete
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\PSTU_CSE.exe
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\PSTU_CSE.pdb
+C:\Users\NoYoN\source\repos\Image view\obj\Debug\BARCODE_SCANNER.csprojAssemblyReference.cache
